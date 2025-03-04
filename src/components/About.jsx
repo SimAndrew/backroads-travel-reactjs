@@ -21,7 +21,7 @@ const About = () => {
 						Your unforgettable experience starts here, guided by our expertise
 						and love for exploration.
 					</p>
-					<a href="#" className="btn">
+					<a href="#about" className="btn">
 						read more
 					</a>
 				</article>
